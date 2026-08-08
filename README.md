@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Smart Library Console
 
 A Java console application for managing books, library users, borrowing, returns, reservations, notifications, and library reports.
@@ -110,6 +109,3 @@ The project demonstrates several object-oriented design patterns:
 ## License
 
 No license has been specified for this project yet.
-=======
-# smart-library-console
->>>>>>> 98162450e72ff84a505a0e0e7cdc1c7831f3009c
